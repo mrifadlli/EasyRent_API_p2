@@ -1,0 +1,222 @@
+[
+    {
+      "id_mobil": 1,
+      "popularity_idx": 9,
+      "model": "911 Carrera S",
+      "brand": "Porsche",
+      "release_year": 2022,
+      "price": 3000000,
+      "engine": "3.0L Twin-Turbo Boxer 6",
+      "HP": 443,
+      "TRQ": 390,
+      "transmissions": [
+        {
+          "transmission_type": "AT",
+          "speed": 8
+        },
+        {
+          "transmission_type": "MT",
+          "speed": 7
+        }
+      ],
+      "images": [
+        {
+          "img_name": "1",
+          "img_ext": "jpg"
+        }
+      ]
+    },
+    {
+      "id_mobil": 2,
+      "popularity_idx": 7,
+      "model": "Corvette Stingray",
+      "brand": "Chevrolet",
+      "release_year": 2021,
+      "price": 2000000,
+      "engine": "6.2L V8 Naturally Aspirated",
+      "HP": 495,
+      "TRQ": 470,
+      "transmissions": [
+        {
+          "transmission_type": "AT",
+          "speed": 8
+        }
+      ],
+      "images": [
+        {
+          "img_name": "2",
+          "img_ext": "jpg"
+        }
+      ]
+    },
+    {
+      "id_mobil": 3,
+      "popularity_idx": 8,
+      "model": "Model S",
+      "brand": "Tesla",
+      "release_year": 2022,
+      "price": 1500000,
+      "engine": "Electric",
+      "HP": 1020,
+      "TRQ": 1300,
+      "transmissions": [
+        {
+          "transmission_type": "AT",
+          "speed": 1
+        }
+      ],
+      "images": [
+        {
+          "img_name": "3",
+          "img_ext": "png"
+        }
+      ]
+    },
+    {
+      "id_mobil": 4,
+      "popularity_idx": 10,
+      "model": "Maserati Ghibli",
+      "brand": "Maserati",
+      "release_year": 2021,
+      "price": 10000000,
+      "engine": "3.8 L twin-turbocharged V-8",
+      "HP": 580,
+      "TRQ": 538,
+      "transmissions": [
+        {
+          "transmission_type": "AT",
+          "speed": 8
+        }
+      ],
+      "images": [
+        {
+          "img_name": "4",
+          "img_ext": "jpg"
+        }
+      ]
+    },
+    {
+      "id_mobil": 5,
+      "popularity_idx": 7,
+      "model": "Audi Rs5 ",
+      "brand": "Audi",
+      "release_year": 2022,
+      "price": 15000000,
+      "engine": "3.0 L twin-turbocharged V-6",
+      "HP": 444,
+      "TRQ": 443,
+      "transmissions": [
+        {
+          "transmission_type": "AT",
+          "speed": 8
+        }
+      ],
+      "images": [
+        {
+          "img_name": "5",
+          "img_ext": "png"
+        }
+      ]
+    },
+    {
+      "id_mobil": 6,
+      "popularity_idx": 8,
+      "model": "BMW M3 ",
+      "brand": "BMW",
+      "release_year": 2021,
+      "price": 9000000,
+      "engine": " twin-turbocharged inline-6",
+      "HP": 503,
+      "TRQ": 479,
+      "transmissions": [
+        {
+          "transmission_type": "AT",
+          "speed": 8
+        }
+      ],
+      "images": [
+        {
+          "img_name": "7",
+          "img_ext": "jpg"
+        }
+      ]
+    },
+    {
+      "id_mobil": 7,
+      "popularity_idx": 8,
+      "model": "Nissan Sentra",
+      "brand": "Nissan",
+      "release_year": 2021,
+      "price": 7500000,
+      "engine": "2.0 L Regular Unleaded I-4",
+      "HP": 230,
+      "TRQ": 200,
+      "transmissions": [
+        {
+          "transmission_type": "AT",
+          "speed": 6
+        }
+      ],
+      "images": [
+        {
+          "img_name": "7",
+          "img_ext": "jpg"
+        }
+      ]
+    },
+    {
+      "id_mobil": 8,
+      "popularity_idx": 5,
+      "model": "Nissan GTR-Rismo",
+      "brand": "Nissan",
+      "release_year": 2021,
+      "price": 8000000,
+      "engine": "twin-turbocharged V-6",
+      "HP": 600,
+      "TRQ": 481,
+      "transmissions": [
+        {
+          "transmission_type": "AT",
+          "speed": 6
+        },
+        {
+            "transmission_type": "MT",
+            "speed": 6
+        }
+      ],
+      "images": [
+        {
+          "img_name": "8",
+          "img_ext": "jpg"
+        }
+      ]
+    },
+    {
+      "id_mobil": 9,
+      "popularity_idx": 10,
+      "model": "Mini Copper F56",
+      "brand": "Mini Copper",
+      "release_year": 2019,
+      "price": 8500000,
+      "engine": "turbocharg 4Cyl/ 4V",
+      "HP": 192,
+      "TRQ": 207,
+      "transmissions": [
+        {
+          "transmission_type": "AT",
+          "speed": 7
+        },
+        {
+            "transmission_type": "MT",
+            "speed": 6
+        }
+      ],
+      "images": [
+        {
+          "img_name": "9",
+          "img_ext": "jpg"
+        }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,24 @@
+{
+  "name": "easyrent",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sequelize": "^6.31.1",
+    "mysql2": "^3.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mwww"
+  },
+  "author": "mwww",
+  "license": "GPL-3.0-or-later"
+}

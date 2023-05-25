@@ -1,0 +1,32 @@
+# berfungsi untuk melakukan pengujian terhadap api
+GET http://localhost:3000/api/users
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjksIm5hbWUiOiJNIGZhZGxpIiwiZW1haWwiOiJxd2VydHlAZ21haWwuY29tIiwiaWF0IjoxNjY0NjgyNTAzLCJleHAiOjE2NjQ2ODI1MjN9.83aSoJMUM_3KeH-9M7fIzAXWFqq0keCvxrbYVqGqUW8
+
+###
+POST http://localhost:3000/api/users
+Content-Type: application/json
+
+{
+    "name" : "M fadli", 
+    "email" : "qwerty@gmail.com",
+    "password" : "qwertyuiop",
+    "confirmPassword" : "qwertyuiop"
+} 
+
+###
+POST http://localhost:3000/api/login
+Content-Type: application/json
+
+{
+    "email" : "poporo@gmail.com",
+    "password" : "bisa1234"
+}
+
+###
+GET  http://localhost:3000/api/token
+
+
+###
+DELETE http://localhost:3000/api/logout
+
+

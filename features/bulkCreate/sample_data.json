@@ -1,0 +1,98 @@
+[
+  {
+    "id_mobil": 1,
+    "popularity_idx": 9,
+    "model": "911 Carrera S",
+    "brand": "Porsche",
+    "release_year": 2022,
+    "price": 3000000,
+    "engine": "3.0L Twin-Turbo Boxer 6",
+    "HP": 443,
+    "TRQ": 390,
+    "transmissions": [
+      {
+        "transmission_type": "AT",
+        "speed": 8
+      },
+      {
+        "transmission_type": "MT",
+        "speed": 7
+      }
+    ],
+    "images": [
+      {
+        "img_name": "1",
+        "img_ext": "jpg"
+      }
+    ]
+  },
+  {
+    "id_mobil": 2,
+    "popularity_idx": 7,
+    "model": "Corvette Stingray",
+    "brand": "Chevrolet",
+    "release_year": 2021,
+    "price": 2000000,
+    "engine": "6.2L V8 Naturally Aspirated",
+    "HP": 495,
+    "TRQ": 470,
+    "transmissions": [
+      {
+        "transmission_type": "AT",
+        "speed": 8
+      }
+    ],
+    "images": [
+      {
+        "img_name": "1",
+        "img_ext": "jpg"
+      }
+    ]
+  },
+  {
+    "id_mobil": 3,
+    "popularity_idx": 8,
+    "model": "Model S",
+    "brand": "Tesla",
+    "release_year": 2022,
+    "price": 1500000,
+    "engine": "Electric",
+    "HP": 1020,
+    "TRQ": 1300,
+    "transmissions": [
+      {
+        "transmission_type": "AT",
+        "speed": 1
+      }
+    ],
+    "images": [
+      {
+        "img_name": "1",
+        "img_ext": "jpg"
+      }
+    ]
+  },
+  {
+    "id_mobil": 4,
+    "popularity_idx": 6,
+    "model": "GT-R Nismo",
+    "brand": "Nissan",
+    "release_year": 2022,
+    "price": 2500000,
+    "engine": "3.8L Twin-Turbo V6",
+    "HP": 600,
+    "TRQ": 481,
+    "transmissions": [
+      {
+        "transmission_type": "AT",
+        "speed": 6
+      }
+    ],
+    "images": [
+      {
+        "img_name": "1",
+        "img_ext": "jpg"
+      }
+    ]
+  }
+]
